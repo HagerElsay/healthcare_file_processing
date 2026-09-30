@@ -1,0 +1,5 @@
+Patient Name: Ahmed Ali
+Age: 31
+Gender: Male
+Diagnosis: Diabetes
+Medication: Metformin
